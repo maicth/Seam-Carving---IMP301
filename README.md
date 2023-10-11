@@ -1,10 +1,11 @@
 # Seam-Carving---IMP301
+A project to implement Image Processing Subject's "Seam carving" algorithm.
 # Run
 ## crop_c(img, scale_c, t)
-* scale_c: percent of remaining picture along columns (for ex: 0.7)
+* scale_c: percent of the remaining picture along columns (for ex: 0.7)
 * t: 'bw' for backward seam carving
 ## crop_r(img, scale_r)
-* scale_r: percent of remaining picture along rows
+* scale_r: percent of the remaining picture along rows
 
 ## seams_insertion(img, num_add)
 * num_add: number of columns to be added
